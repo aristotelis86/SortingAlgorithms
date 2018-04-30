@@ -1,2 +1,4 @@
 # SortingAlgorithms
-Sorting Algorithms implementations in Fortran
+Sorting Algorithms implementations in Fortran.
+
+
